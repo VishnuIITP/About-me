@@ -14,6 +14,19 @@ Passionate about data science, analytics, and problem-solving.
 - **Concepts:** Data wrangling, joins, visualization, exception handling  
 - **Other:** Git workflows, presentation design
 
+## 📂 Featured Projects
+- ⚡ **EV Car Analysis**  
+  Exploratory analysis of electric vehicle trends, performance metrics, and adoption patterns.  
+  *Tech stack:* Python, Pandas, Matplotlib ,Streamlit 
+
+- 🌍 **India Census Visualization**  
+  Interactive visualizations of census data to highlight demographic and regional insights.  
+  *Tech stack:* Tableau,Streamlit, Python  
+
+- 🎓 **Student Performance Analytics**  
+  Data-driven insights into academic performance, identifying key factors influencing outcomes.  
+  *Tech stack:* SQL, Pandas, Seaborn
+
 ## Goals
 - Build portfolio-ready projects in data science  
 - Share structured educational content for peers  
