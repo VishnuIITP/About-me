@@ -1,16 +1,32 @@
-# Hi there, I'm Vishnu 👋
+# Hi, I'm Vishnu Kumar 👋
+2nd year B.Sc. Computer Science and Data Analysis student at IIT Patna.  
+Passionate about data science, analytics, and problem-solving.
 
-## 👨‍💼 About Me
-- **Profession:** Data Analyst
-- **Skills:** Matlab, C (Programming Language)
-- **Interests:** I enjoy reading reports and analyzing data-driven insights.
+## About Me
+- 🎓 Studying Computer Science and Data Analysis at IIT Patna  
+- 🔍 Interested in data wrangling, visualization, and analytical problem-solving  
+- 🚗 Exploring applications of data science in the automobile domain  
+- 📈 Actively building projects to strengthen analytical and technical skills
 
-## 🛠️ Tools & Technologies
-- Matlab
-- C
+## Skills
+- **Programming:** Python, SQL  
+- **Data Tools:** Pandas, Tableau, MySQL  
+- **Concepts:** Data wrangling, joins, visualization, exception handling  
+- **Other:** Git workflows, presentation design
 
-## 📚 Interests
-- Reading technical and analytical reports
+## Goals
+- Build portfolio-ready projects in data science  
+- Share structured educational content for peers  
+- Align projects toward automobile data science applications  
+- Prepare for placements with strong analytical foundations
+
+## Connect
+- 📧 Email: vishnu_24a12res1165@iitp.ac.in
+- 🔗 LinkedIn: (https://www.linkedin.com/in/visnukumar/)  
+
+
+
+
 
 <!-- Optionally add more sections like GitHub Stats, Top Projects, or Socials if you provide those links -->
 
